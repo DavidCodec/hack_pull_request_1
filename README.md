@@ -6,6 +6,7 @@ George
 <br/>
 
 telegram: @george05v
+<br/>
 correo: georgevargas868@gmail.com
 
 <br/>
